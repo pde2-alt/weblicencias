@@ -1,0 +1,272 @@
+[
+  {
+    "id": 1,
+    "software": "Editor de texto",
+    "version": "1.0",
+    "price": 24.99,
+    "key": "DEMO-0001-NO-VALIDA",
+    "featured": false,
+    "discount": 10
+  },
+  {
+    "id": 2,
+    "software": "Editor de texto",
+    "version": "2.0",
+    "price": 29.99,
+    "key": "DEMO-0002-NO-VALIDA",
+    "featured": false,
+    "discount": 20
+  },
+  {
+    "id": 3,
+    "software": "Editor de texto",
+    "version": "3.0",
+    "price": 34.99,
+    "key": "DEMO-0003-NO-VALIDA",
+    "featured": true,
+    "discount": 30
+  },
+  {
+    "id": 4,
+    "software": "Editor de imágenes",
+    "version": "1.0",
+    "price": 27.99,
+    "key": "DEMO-0004-NO-VALIDA",
+    "featured": false,
+    "discount": 20
+  },
+  {
+    "id": 5,
+    "software": "Editor de imágenes",
+    "version": "2.0",
+    "price": 32.99,
+    "key": "DEMO-0005-NO-VALIDA",
+    "featured": false,
+    "discount": 30
+  },
+  {
+    "id": 6,
+    "software": "Editor de imágenes",
+    "version": "3.0",
+    "price": 37.99,
+    "key": "DEMO-0006-NO-VALIDA",
+    "featured": true,
+    "discount": 40
+  },
+  {
+    "id": 7,
+    "software": "Editor de vídeo",
+    "version": "1.0",
+    "price": 30.99,
+    "key": "DEMO-0007-NO-VALIDA",
+    "featured": false,
+    "discount": 30
+  },
+  {
+    "id": 8,
+    "software": "Editor de vídeo",
+    "version": "2.0",
+    "price": 35.99,
+    "key": "DEMO-0008-NO-VALIDA",
+    "featured": false,
+    "discount": 40
+  },
+  {
+    "id": 9,
+    "software": "Editor de vídeo",
+    "version": "3.0",
+    "price": 40.99,
+    "key": "DEMO-0009-NO-VALIDA",
+    "featured": true,
+    "discount": 0
+  },
+  {
+    "id": 10,
+    "software": "Antivirus",
+    "version": "1.0",
+    "price": 33.99,
+    "key": "DEMO-0010-NO-VALIDA",
+    "featured": false,
+    "discount": 40
+  },
+  {
+    "id": 11,
+    "software": "Antivirus",
+    "version": "2.0",
+    "price": 38.99,
+    "key": "DEMO-0011-NO-VALIDA",
+    "featured": false,
+    "discount": 0
+  },
+  {
+    "id": 12,
+    "software": "Antivirus",
+    "version": "3.0",
+    "price": 43.99,
+    "key": "DEMO-0012-NO-VALIDA",
+    "featured": true,
+    "discount": 10
+  },
+  {
+    "id": 13,
+    "software": "Ofimática",
+    "version": "1.0",
+    "price": 36.99,
+    "key": "DEMO-0013-NO-VALIDA",
+    "featured": false,
+    "discount": 0
+  },
+  {
+    "id": 14,
+    "software": "Ofimática",
+    "version": "2.0",
+    "price": 41.99,
+    "key": "DEMO-0014-NO-VALIDA",
+    "featured": false,
+    "discount": 10
+  },
+  {
+    "id": 15,
+    "software": "Ofimática",
+    "version": "3.0",
+    "price": 46.99,
+    "key": "DEMO-0015-NO-VALIDA",
+    "featured": true,
+    "discount": 20
+  },
+  {
+    "id": 16,
+    "software": "Gestor de proyectos",
+    "version": "1.0",
+    "price": 39.99,
+    "key": "DEMO-0016-NO-VALIDA",
+    "featured": false,
+    "discount": 10
+  },
+  {
+    "id": 17,
+    "software": "Gestor de proyectos",
+    "version": "2.0",
+    "price": 44.99,
+    "key": "DEMO-0017-NO-VALIDA",
+    "featured": false,
+    "discount": 20
+  },
+  {
+    "id": 18,
+    "software": "Gestor de proyectos",
+    "version": "3.0",
+    "price": 49.99,
+    "key": "DEMO-0018-NO-VALIDA",
+    "featured": true,
+    "discount": 30
+  },
+  {
+    "id": 19,
+    "software": "Diseño 3D",
+    "version": "1.0",
+    "price": 42.99,
+    "key": "DEMO-0019-NO-VALIDA",
+    "featured": false,
+    "discount": 20
+  },
+  {
+    "id": 20,
+    "software": "Diseño 3D",
+    "version": "2.0",
+    "price": 47.99,
+    "key": "DEMO-0020-NO-VALIDA",
+    "featured": false,
+    "discount": 30
+  },
+  {
+    "id": 21,
+    "software": "Diseño 3D",
+    "version": "3.0",
+    "price": 52.99,
+    "key": "DEMO-0021-NO-VALIDA",
+    "featured": false,
+    "discount": 40
+  },
+  {
+    "id": 22,
+    "software": "Edición de audio",
+    "version": "1.0",
+    "price": 45.99,
+    "key": "DEMO-0022-NO-VALIDA",
+    "featured": false,
+    "discount": 30
+  },
+  {
+    "id": 23,
+    "software": "Edición de audio",
+    "version": "2.0",
+    "price": 50.99,
+    "key": "DEMO-0023-NO-VALIDA",
+    "featured": false,
+    "discount": 40
+  },
+  {
+    "id": 24,
+    "software": "Edición de audio",
+    "version": "3.0",
+    "price": 55.99,
+    "key": "DEMO-0024-NO-VALIDA",
+    "featured": false,
+    "discount": 0
+  },
+  {
+    "id": 25,
+    "software": "Copias de seguridad",
+    "version": "1.0",
+    "price": 48.99,
+    "key": "DEMO-0025-NO-VALIDA",
+    "featured": false,
+    "discount": 40
+  },
+  {
+    "id": 26,
+    "software": "Copias de seguridad",
+    "version": "2.0",
+    "price": 53.99,
+    "key": "DEMO-0026-NO-VALIDA",
+    "featured": false,
+    "discount": 0
+  },
+  {
+    "id": 27,
+    "software": "Copias de seguridad",
+    "version": "3.0",
+    "price": 58.99,
+    "key": "DEMO-0027-NO-VALIDA",
+    "featured": false,
+    "discount": 10
+  },
+  {
+    "id": 28,
+    "software": "Contabilidad",
+    "version": "1.0",
+    "price": 51.99,
+    "key": "DEMO-0028-NO-VALIDA",
+    "featured": false,
+    "discount": 0
+  },
+  {
+    "id": 29,
+    "software": "Contabilidad",
+    "version": "2.0",
+    "price": 56.99,
+    "key": "DEMO-0029-NO-VALIDA",
+    "featured": false,
+    "discount": 10
+  },
+  {
+    "id": 30,
+    "software": "Contabilidad",
+    "version": "3.0",
+    "price": 61.99,
+    "key": "DEMO-0030-NO-VALIDA",
+    "featured": false,
+    "discount": 20
+  }
+]

@@ -1,0 +1,25 @@
+
+body {
+    align-content: center;
+    text-align: center;
+    text-indent: 3px;
+    background-color: darkcyan;
+}
+section {
+    background-color: yellowgreen;
+    margin-left: auto;
+    margin-right: auto;
+    border-width: 3px;
+    border-style: solid;
+    border-radius: 40px;
+    width:35%;
+    height: fit-content;
+    margin-top: 6px;
+    display: grid;
+  
+}
+#catalog{
+    display: grid;
+    grid-template-columns: repeat(2,1fr);
+    gap:1rem
+}

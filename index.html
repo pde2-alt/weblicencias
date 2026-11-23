@@ -1,0 +1,61 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Licencias de software</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <h1>Licencias de software</h1>
+  <p>Catálogo de demostración: las claves no son válidas para activar software.</p>
+
+  <button
+    id="my-licenses-button"
+    type="button"
+    aria-expanded="false"
+    aria-controls="my-licenses"
+  >
+    Mis licencias
+  </button>
+
+  <section id="my-licenses" hidden>
+    <h2>Mis licencias</h2>
+    <div id="purchased-list"></div>
+  </section>
+
+  <main>
+
+
+    <section>
+      <h2>Licencias</h2>
+    <label for="search">Buscar por software o versión:</label>
+    <input id="search" type="search" autocomplete="off">
+      <label for="license-filter">Mostrar:</label>
+      <select id="license-filter">
+        <option value="all">Todas</option>
+        <option value="featured">Destacadas</option>
+        <option value="offers">Con descuento</option>
+        <option value="latest">Últimas versiones</option>
+      </select>
+
+      <label for="max-price">Precio máximo (€):</label>
+      <input id="max-price" type="number" min="0" step="0.01">
+
+      <label for="sort">Ordenar por:</label>
+      <select id="sort">
+        <option value="random">Aleatorio</option>
+        <option value="price">Precio: menor a mayor</option>
+        <option value="name">Nombre: A-Z</option>
+        <option value="version">Versión: más reciente primero</option>
+      </select>
+
+      <div id="all"></div>
+    </section>
+  </main>
+
+  <script src="scripts/License.js"></script>
+  <script src="scripts/LicenseController.js"></script>
+  <script src="scripts/App.js"></script>
+</body>
+</html>
